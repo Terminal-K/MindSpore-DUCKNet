@@ -1,4 +1,4 @@
-# MindSpore_DUCK-Net
+# MindSpore-DUCKNet
 This repo is the MindSpore implementation of DUCK-Net for my class work **(not perfect)**.
 
 The detailed paper about DUCK-Net can be found at [DUCK-Net paper](https://www.nature.com/articles/s41598-023-36940-5), 
